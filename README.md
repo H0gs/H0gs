@@ -2,7 +2,7 @@
 - 👀 I’m interested in 3d printing, programming and cybersecurity
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on games and cybersecurity projects
-- 📫 How to reach me ...
+- 📫 How to reach me hjdavis2007@gmail.com
 
 <!---
 H0gs/H0gs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
