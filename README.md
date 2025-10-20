@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @H0gs
-- 👀 I’m interested in 3d printing, coding, pigs, skiing...
-- 🌱 I’m currently learning react, js & html
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 3d printing, programming and cybersecurity
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on games and cybersecurity projects
 - 📫 How to reach me ...
 
 <!---
